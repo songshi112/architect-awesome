@@ -2519,11 +2519,10 @@ TODO
 * 又拍云
 
 ## 综合云服务商
-* 阿里云
-* 腾讯云
-* 百度云
-* 新浪云
-* 金山云
+* 阿里云(https://www.aliyun.com/)
+* 腾讯云(https://cloud.tencent.com/)
+* 百度云(https://cloud.baidu.com/)
+* 金山云(https://www.ksyun.com/)
 * [亚马逊云(AWS)](https://amazonaws-china.com/cn/)
 * [谷歌云](https://cloud.google.com/?hl=zh-cn)
 * [微软云](https://azure.microsoft.com/zh-cn/)
